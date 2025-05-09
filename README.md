@@ -25,7 +25,7 @@
 
 <h3 align="center">experienced in building and maintaining scalable plugins and backend databases. developed & staffed several large scale communities amounting to 400,000 unique members. good with collaborating, problem solving, and delivering perfection.</h3>
 
-- 🔭 currently working on [multiple projects :3](https://)
+- 🔭 currently working on [multiple projects :3](https://github.com/qeid?tab=projects)
 
 - 🌱 learning **kotlin, react, rust :)**
 
